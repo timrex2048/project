@@ -1,2 +1,2 @@
 Nizamiev Timur
-10320c-82
+10320-c82
